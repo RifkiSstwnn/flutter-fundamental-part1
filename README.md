@@ -1,16 +1,41 @@
-# hello_world
+# Projct hello_world
 
-A new Flutter project.
+Rifki Setiawan <br>
+TI-3H
 
-## Getting Started
+## Praktikum 1
 
-This project is a starting point for a Flutter application.
+![Screenshoot Praktikum 1](images/P1.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Praktikum 2
+Menampilkan aplikasi pada handphone pribadi <br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshoot Praktikum 2](images/P2.jpg)
+![Screenshoot Praktikum 2](images/An1.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Praktikum 3
+Menjalankan Proyek Flutter <br>
+![Screenshoot Praktikum 3](images/P3.png)
+
+
+## Praktikum 4
+![Screenshoot Praktikum 4](images/P4.png)
+
+## Praktikum 5
+
+Scaffold Widget <br>
+![Screenshoot Praktikum 5 Scaffold](images/P5L3.png)
+
+<br> Dialog Widget <br>
+
+![Screenshoot Praktikum 5 Scaffold](images/P5L4.png)
+
+<br> Input dan Selection Widget <br>
+
+![Screenshoot Praktikum 5 Scaffold](images/P5L5.png)
+
+<br> Date dan Time Widget <br>
+
+![Screenshoot Praktikum 5 Scaffold](images/P5L6.png)
+
