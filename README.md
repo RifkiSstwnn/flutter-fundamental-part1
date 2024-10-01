@@ -20,7 +20,8 @@ Menjalankan Proyek Flutter <br>
 
 
 ## Praktikum 4
-![Screenshoot Praktikum 4](image/P4.png)
+![Screenshoot Praktikum 4](image/P4L1.png)
+![Screenshoot Praktikum 4](image/P4L2.png)
 
 ## Praktikum 5
 
